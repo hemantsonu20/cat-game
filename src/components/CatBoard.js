@@ -1,5 +1,5 @@
 import React from 'react';
-import Cat from '../Cat';
+import Cat from './Cat';
 
 export default class CatBoard extends React.Component {
 

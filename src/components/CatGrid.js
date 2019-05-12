@@ -1,6 +1,6 @@
 import React from 'react';
-import Square from '../Square';
-import './index.css';
+import Square from './Square';
+import './CatGrid.css';
 
 export default class CatGrid extends React.Component {
 

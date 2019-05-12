@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from '../Header';
-import CatBoard from '../CatBoard';
-import CatGrid from '../CatGrid';
+import Header from './Header';
+import CatBoard from './CatBoard';
+import CatGrid from './CatGrid';
 
 export const boardRows = 3;
 export const boardCols = 4;
