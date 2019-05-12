@@ -1,0 +1,23 @@
+.grid {
+  height: 115px;
+  width: 150px;
+  padding-top: 6px !important;
+  padding-bottom: 6px !important;
+  vertical-align: middle !important;
+}
+
+.highlight0 {
+  background-color: #ffccbc;
+}
+
+.highlight1 {
+  background-color: #ffab91;
+}
+
+.highlight2 {
+  background-color: #ff8a65;
+}
+
+.highlight3 {
+  background-color: #ff5722;
+}
